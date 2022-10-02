@@ -1,0 +1,24 @@
+{
+"name": "lukesnow91/jetsmartfilter", "description": "",
+"keywords": [
+
+"wordpress", "plugin"
+],
+
+"homepage":
+"https://github.com/lukesnow91/jetsmartfilter",
+"authors": [
+
+{
+"name": "jetsmartfilter", "homepage":
+"https://eileenlue.com"
+}
+
+],
+
+"type": "wordpress-plugin", "require": {
+"php": ">5.6"
+
+}
+
+}
